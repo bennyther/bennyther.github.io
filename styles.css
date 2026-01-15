@@ -22,7 +22,7 @@ body{
     border:10px;
 }
 
-#cool_header{
+.cool_header{
     display:flex;
     flex-direction:row;
     flex-wrap:nowrap;
